@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arch Notes</string>
+    <string name="description">this is my first note jjgjgjhkhghkghbhgjjghghjghjkghkjghkhkjhjkhjkhjkhjkhjkhjkhjkhjkhkjhjkhkjhjkjhjkhjkhjkjhjkhjkhjhjkhjhjkjhkhkjhkjhjkhjkhkjhjkhjkhjhjkhjkhkjhjkhjkhjkjhjkhkjjhjkh</string>
+    <string name="title">Title</string>
+    <string name="des_hint">Note something down</string>
+    <string name="delete_all_notes">Delete all notes</string>
+</resources>
